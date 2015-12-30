@@ -197,6 +197,20 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/nobleltespr/proprietary/app/mcRegistry/fffffffff0000000000000000000001b.tlbin:system/app/mcRegistry/fffffffff0000000000000000000001b.tlbin \
     vendor/samsung/nobleltespr/proprietary/app/mcRegistry/fffffffff0000000000000000000001e.tlbin:system/app/mcRegistry/fffffffff0000000000000000000001e.tlbin \
     vendor/samsung/nobleltespr/proprietary/bin/cs:system/bin/cs \
+    vendor/samsung/nobleltespr/proprietary/bin/ATFWD-daemon:system/bin/ATFWD-daemon \
+    vendor/samsung/nobleltespr/proprietary/bin/argosd:system/bin/argosd \
+    vendor/samsung/nobleltespr/proprietary/bin/at_distributor:system/bin/at_distributor \
+    vendor/samsung/nobleltespr/proprietary/bin/connfwexe:system/bin/connfwexe \
+    vendor/samsung/nobleltespr/proprietary/bin/ddexe:system/bin/ddexe \
+    vendor/samsung/nobleltespr/proprietary/bin/diag_mdlog:system/bin/diag_mdlog \
+    vendor/samsung/nobleltespr/proprietary/bin/diag_uart_log:system/bin/diag_uart_log \
+    vendor/samsung/nobleltespr/proprietary/bin/irsc_util:system/bin/irsc_util \
+    vendor/samsung/nobleltespr/proprietary/bin/mdm_helper:system/bin/mdm_helper \
+    vendor/samsung/nobleltespr/proprietary/bin/mdm_helper_proxy:system/bin/mdm_helper_proxy \
+    vendor/samsung/nobleltespr/proprietary/bin/qmuxd:system/bin/qmuxd \
+    vendor/samsung/nobleltespr/proprietary/bin/rild:system/bin/rild \
+    vendor/samsung/nobleltespr/proprietary/bin/rtc_log.sh:system/bin/rtc_log.sh \
+    vendor/samsung/nobleltespr/proprietary/bin/umount:system/bin/umount \
     vendor/samsung/nobleltespr/proprietary/lib/libMcClient.so:system/lib/libMcClient.so \
     vendor/samsung/nobleltespr/proprietary/lib64/libMcClient.so:system/lib64/libMcClient.so \
     vendor/samsung/nobleltespr/proprietary/etc/sec_s3fwrn5s_rfreg.bin:system/etc/sec_s3fwrn5s_rfreg.bin \
