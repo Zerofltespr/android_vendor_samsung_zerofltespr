@@ -230,6 +230,8 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/nobleltespr/proprietary/vendor/lib64/libdiag.so:system/vendor/lib64/libdiag.so \
     vendor/samsung/nobleltespr/proprietary/vendor/lib/libdsutils.so:system/vendor/lib/libdsutils.so \
     vendor/samsung/nobleltespr/proprietary/vendor/lib64/libdsutils.so:system/vendor/lib64/libdsutils.so \
+    vendor/samsung/nobleltespr/proprietary/vendor/lib/libidl.so:system/vendor/lib/libidl.so \
+    vendor/samsung/nobleltespr/proprietary/vendor/lib64/libidl.so:system/vendor/lib64/libidl.so \
     vendor/samsung/nobleltespr/proprietary/vendor/lib/drm/libdrmwvmplugin.so:system/vendor/lib/drm/libdrmwvmplugin.so \
     vendor/samsung/nobleltespr/proprietary/vendor/lib/libdrmdecrypt.so:system/vendor/lib/libdrmdecrypt.so \
     vendor/samsung/nobleltespr/proprietary/vendor/lib/libwvdrm_L1.so:system/vendor/lib/libwvdrm_L1.so \
