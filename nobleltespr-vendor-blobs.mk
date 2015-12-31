@@ -208,6 +208,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/nobleltespr/proprietary/bin/ks:system/bin/ks \
     vendor/samsung/nobleltespr/proprietary/bin/mdm_helper:system/bin/mdm_helper \
     vendor/samsung/nobleltespr/proprietary/bin/mdm_helper_proxy:system/bin/mdm_helper_proxy \
+    vendor/samsung/nobleltespr/proprietary/bin/qmiproxy:system/bin/qmiproxy \
     vendor/samsung/nobleltespr/proprietary/bin/qmuxd:system/bin/qmuxd \
     vendor/samsung/nobleltespr/proprietary/bin/rild:system/bin/rild \
     vendor/samsung/nobleltespr/proprietary/bin/rtc_log.sh:system/bin/rtc_log.sh \
