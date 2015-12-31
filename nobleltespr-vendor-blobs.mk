@@ -232,6 +232,8 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/nobleltespr/proprietary/lib64/libmdmdetect.so:system/lib64/libmdmdetect.so \
     vendor/samsung/nobleltespr/proprietary/lib/librmnetctl.so:system/lib/librmnetctl.so \
     vendor/samsung/nobleltespr/proprietary/lib64/librmnetctl.so:system/lib64/librmnetctl.so \
+    vendor/samsung/nobleltespr/proprietary/lib64/libcfiril.so:system/lib64/libcfiril.so \
+    vendor/samsung/nobleltespr/proprietary/lib64/librilswitch.so:system/lib64/librilswitch.so \
     vendor/samsung/nobleltespr/proprietary/vendor/lib/libdiag.so:system/vendor/lib/libdiag.so \
     vendor/samsung/nobleltespr/proprietary/vendor/lib64/libdiag.so:system/vendor/lib64/libdiag.so \
     vendor/samsung/nobleltespr/proprietary/vendor/lib/libdsutils.so:system/vendor/lib/libdsutils.so \
