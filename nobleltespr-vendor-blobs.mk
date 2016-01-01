@@ -244,6 +244,14 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/nobleltespr/proprietary/vendor/lib64/libqcci_legacy.so:system/vendor/lib64/libqcci_legacy.so \
     vendor/samsung/nobleltespr/proprietary/vendor/lib/libqmi.so:system/vendor/lib/libqmi.so \
     vendor/samsung/nobleltespr/proprietary/vendor/lib64/libqmi.so:system/vendor/lib64/libqmi.so \
+    vendor/samsung/nobleltespr/proprietary/vendor/lib/libqmi_cci.so:system/vendor/lib/libqmi_cci.so \
+    vendor/samsung/nobleltespr/proprietary/vendor/lib/libqmi_common_so.so:system/vendor/lib/libqmi_common_so.so \
+    vendor/samsung/nobleltespr/proprietary/vendor/lib/libqmi_csi.so:system/vendor/lib/libqmi_csi.so \
+    vendor/samsung/nobleltespr/proprietary/vendor/lib/libqmi_encdec.so:system/vendor/lib/libqmi_encdec.so \
+    vendor/samsung/nobleltespr/proprietary/vendor/lib64/libqmi_cci.so:system/vendor/lib64/libqmi_cci.so \
+    vendor/samsung/nobleltespr/proprietary/vendor/lib64/libqmi_common_so.so:system/vendor/lib64/libqmi_common_so.so \
+    vendor/samsung/nobleltespr/proprietary/vendor/lib64/libqmi_csi.so:system/vendor/lib64/libqmi_csi.so\
+    vendor/samsung/nobleltespr/proprietary/vendor/lib64/libqmi_encdec.so:system/vendor/lib64/libqmi_encdec.so \
     vendor/samsung/nobleltespr/proprietary/vendor/lib/libqmiservices.so:system/vendor/lib/libqmiservices.so \
     vendor/samsung/nobleltespr/proprietary/vendor/lib64/libqmiservices.so:system/vendor/lib64/libqmiservices.so \
     vendor/samsung/nobleltespr/proprietary/vendor/lib/libril-qcril-hook-oem.so:system/vendor/lib/libril-qcril-hook-oem.so \
