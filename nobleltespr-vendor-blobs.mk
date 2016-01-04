@@ -199,6 +199,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/nobleltespr/proprietary/bin/cs:system/bin/cs \
     vendor/samsung/nobleltespr/proprietary/bin/ATFWD-daemon:system/bin/ATFWD-daemon \
     vendor/samsung/nobleltespr/proprietary/bin/argosd:system/bin/argosd \
+    vendor/samsung/nobleltespr/proprietary/etc/sec_config:system/etc/sec_config \
     vendor/samsung/nobleltespr/proprietary/bin/at_distributor:system/bin/at_distributor \
     vendor/samsung/nobleltespr/proprietary/bin/connfwexe:system/bin/connfwexe \
     vendor/samsung/nobleltespr/proprietary/bin/ddexe:system/bin/ddexe \
