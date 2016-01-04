@@ -201,6 +201,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/nobleltespr/proprietary/bin/argosd:system/bin/argosd \
     vendor/samsung/nobleltespr/proprietary/etc/sec_config:system/etc/sec_config \
     vendor/samsung/nobleltespr/proprietary/etc/Diag.cfg:system/etc/Diag.cfg \
+    vendor/samsung/nobleltespr/proprietary/etc/Diag_zero.cfg:system/etc/Diag_zero.cfg \
     vendor/samsung/nobleltespr/proprietary/bin/at_distributor:system/bin/at_distributor \
     vendor/samsung/nobleltespr/proprietary/bin/connfwexe:system/bin/connfwexe \
     vendor/samsung/nobleltespr/proprietary/bin/ddexe:system/bin/ddexe \
