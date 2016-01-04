@@ -227,6 +227,8 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/nobleltespr/proprietary/lib/libatparser.so:system/lib/libatparser.so \
     vendor/samsung/nobleltespr/proprietary/lib64/libatparser.so:system/lib64/libatparser.so \
     vendor/samsung/nobleltespr/proprietary/lib/libaudio-ril.so:system/lib/libaudio-ril.so \
+    vendor/samsung/nobleltespr/proprietary/lib/libcordon.so:system/lib/libcordon.so \
+    vendor/samsung/nobleltespr/proprietary/lib64/libcordon.so:system/lib64/libcordon.so \
     vendor/samsung/nobleltespr/proprietary/lib/libcsd-client.so:system/lib/libcsd-client.so \
     vendor/samsung/nobleltespr/proprietary/lib64/libcsd-client.so:system/lib64/libcsd-client.so \
     vendor/samsung/nobleltespr/proprietary/lib/libsecnativefeature.so:system/lib/libsecnativefeature.so \
@@ -251,8 +253,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/nobleltespr/proprietary/lib64/libxml.so:system/lib64/libxml.so \
     vendor/samsung/nobleltespr/proprietary/lib64/libxml2.so:system/lib64/libxml2.so \
     vendor/samsung/nobleltespr/proprietary/vendor/lib64/libconfigdb.so:system/vendor/lib64/libconfigdb.so \
-    vendor/samsung/nobleltespr/proprietary/vendor/lib/libcordon.so:system/vendor/lib/libcordon.so \
-    vendor/samsung/nobleltespr/proprietary/vendor/lib64/libcordon.so:system/vendor/lib64/libcordon.so \
     vendor/samsung/nobleltespr/proprietary/vendor/lib/libdiag.so:system/vendor/lib/libdiag.so \
     vendor/samsung/nobleltespr/proprietary/vendor/lib64/libdiag.so:system/vendor/lib64/libdiag.so \
     vendor/samsung/nobleltespr/proprietary/vendor/lib/libdsutils.so:system/vendor/lib/libdsutils.so \
@@ -277,9 +277,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/nobleltespr/proprietary/vendor/lib64/libril-qcril-hook-oem.so:system/vendor/lib64/libril-qcril-hook-oem.so \
     vendor/samsung/nobleltespr/proprietary/vendor/lib/libqmi_client_qmux.so:system/vendor/lib/libqmi_client_qmux.so \
     vendor/samsung/nobleltespr/proprietary/vendor/lib64/libqmi_client_qmux.so:system/vendor/lib64/libqmi_client_qmux.so \
-
-
-
     vendor/samsung/nobleltespr/proprietary/vendor/lib/drm/libdrmwvmplugin.so:system/vendor/lib/drm/libdrmwvmplugin.so \
     vendor/samsung/nobleltespr/proprietary/vendor/lib/libdrmdecrypt.so:system/vendor/lib/libdrmdecrypt.so \
     vendor/samsung/nobleltespr/proprietary/vendor/lib/libwvdrm_L1.so:system/vendor/lib/libwvdrm_L1.so \
