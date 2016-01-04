@@ -240,6 +240,9 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/nobleltespr/proprietary/lib64/libreference-ril.so:system/lib64/libreference-ril.so \
     vendor/samsung/nobleltespr/proprietary/lib64/libcfiril.so:system/lib64/libcfiril.so \
     vendor/samsung/nobleltespr/proprietary/lib64/librilswitch.so:system/lib64/librilswitch.so \
+    vendor/samsung/nobleltespr/proprietary/lib/libxml2.so:system/lib/libxml2.so \
+    vendor/samsung/nobleltespr/proprietary/lib64/libxml.so:system/lib64/libxml.so \
+    vendor/samsung/nobleltespr/proprietary/lib64/libxml2.so:system/lib64/libxml2.so \
     vendor/samsung/nobleltespr/proprietary/vendor/lib64/libconfigdb.so:system/vendor/lib64/libconfigdb.so \
     vendor/samsung/nobleltespr/proprietary/vendor/lib/libcordon.so:system/vendor/lib/libcordon.so \
     vendor/samsung/nobleltespr/proprietary/vendor/lib64/libcordon.so:system/vendor/lib64/libcordon.so \
@@ -267,6 +270,9 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/nobleltespr/proprietary/vendor/lib64/libril-qcril-hook-oem.so:system/vendor/lib64/libril-qcril-hook-oem.so \
     vendor/samsung/nobleltespr/proprietary/vendor/lib/libqmi_client_qmux.so:system/vendor/lib/libqmi_client_qmux.so \
     vendor/samsung/nobleltespr/proprietary/vendor/lib64/libqmi_client_qmux.so:system/vendor/lib64/libqmi_client_qmux.so \
+
+
+
     vendor/samsung/nobleltespr/proprietary/vendor/lib/drm/libdrmwvmplugin.so:system/vendor/lib/drm/libdrmwvmplugin.so \
     vendor/samsung/nobleltespr/proprietary/vendor/lib/libdrmdecrypt.so:system/vendor/lib/libdrmdecrypt.so \
     vendor/samsung/nobleltespr/proprietary/vendor/lib/libwvdrm_L1.so:system/vendor/lib/libwvdrm_L1.so \
