@@ -243,6 +243,8 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/nobleltespr/proprietary/lib64/libreference-ril.so:system/lib64/libreference-ril.so \
     vendor/samsung/nobleltespr/proprietary/lib64/libcfiril.so:system/lib64/libcfiril.so \
     vendor/samsung/nobleltespr/proprietary/lib64/librilswitch.so:system/lib64/librilswitch.so \
+    vendor/samsung/nobleltespr/proprietary/lib/libssaudio-client.so:system/lib/libssaudio-client.so \
+    vendor/samsung/nobleltespr/proprietary/lib64/libssaudio-client.so:system/lib64/libssaudio-client.so \
     vendor/samsung/nobleltespr/proprietary/lib/libxml2.so:system/lib/libxml2.so \
     vendor/samsung/nobleltespr/proprietary/lib64/libxml.so:system/lib64/libxml.so \
     vendor/samsung/nobleltespr/proprietary/lib64/libxml2.so:system/lib64/libxml2.so \
