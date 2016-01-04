@@ -222,6 +222,8 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/nobleltespr/proprietary/lib64/hw/nfc_nci.universal7420.so:system/lib64/hw/nfc_nci.universal7420.so \
     vendor/samsung/nobleltespr/proprietary/vendor/firmware/sec_s3fwrn5s_firmware.bin:system/vendor/firmware/sec_s3fwrn5s_firmware.bin \
     vendor/samsung/nobleltespr/proprietary/bin/argosd:system/bin/argosd \
+    vendor/samsung/nobleltespr/proprietary/lib/libatparser.so:system/lib/libatparser.so \
+    vendor/samsung/nobleltespr/proprietary/lib64/libatparser.so:system/lib64/libatparser.so \
     vendor/samsung/nobleltespr/proprietary/lib/libsecnativefeature.so:system/lib/libsecnativefeature.so \
     vendor/samsung/nobleltespr/proprietary/lib64/libsecnativefeature.so:system/lib64/libsecnativefeature.so \
     vendor/samsung/nobleltespr/proprietary/lib/libril.so:system/lib/libril.so \
