@@ -216,6 +216,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/nobleltespr/proprietary/bin/rild:system/bin/rild \
     vendor/samsung/nobleltespr/proprietary/bin/rtc_log.sh:system/bin/rtc_log.sh \
     vendor/samsung/nobleltespr/proprietary/bin/umount:system/bin/umount \
+    vendor/samsung/nobleltespr/proprietary/lib/liboemcrypto.so:system/lib/liboemcrypto.so \
     vendor/samsung/nobleltespr/proprietary/lib/libMcClient.so:system/lib/libMcClient.so \
     vendor/samsung/nobleltespr/proprietary/lib64/libMcClient.so:system/lib64/libMcClient.so \
     vendor/samsung/nobleltespr/proprietary/etc/sec_s3fwrn5s_rfreg.bin:system/etc/sec_s3fwrn5s_rfreg.bin \
