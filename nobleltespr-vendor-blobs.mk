@@ -229,6 +229,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/nobleltespr/proprietary/lib/libatparser.so:system/lib/libatparser.so \
     vendor/samsung/nobleltespr/proprietary/lib64/libatparser.so:system/lib64/libatparser.so \
     vendor/samsung/nobleltespr/proprietary/lib/libaudio-ril.so:system/lib/libaudio-ril.so \
+    vendor/samsung/nobleltespr/proprietary/lib/libchameleon.so:system/lib/libchameleon.so \
     vendor/samsung/nobleltespr/proprietary/lib/libcordon.so:system/lib/libcordon.so \
     vendor/samsung/nobleltespr/proprietary/lib64/libcordon.so:system/lib64/libcordon.so \
     vendor/samsung/nobleltespr/proprietary/lib/libcsd-client.so:system/lib/libcsd-client.so \
