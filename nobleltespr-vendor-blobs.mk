@@ -236,6 +236,8 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/nobleltespr/proprietary/lib64/libcsd-client.so:system/lib64/libcsd-client.so \
     vendor/samsung/nobleltespr/proprietary/lib/libfactoryutil.so:system/lib/libfactoryutil.so \
     vendor/samsung/nobleltespr/proprietary/lib64/libfactoryutil.so:system/lib64/libfactoryutil.so \
+    vendor/samsung/nobleltespr/proprietary/lib/libomission_avoidance.so:system/lib/libomission_avoidance.so \
+    vendor/samsung/nobleltespr/proprietary/lib64/libomission_avoidance.so:system/lib64/libomission_avoidance.so \
     vendor/samsung/nobleltespr/proprietary/lib/libsecnativefeature.so:system/lib/libsecnativefeature.so \
     vendor/samsung/nobleltespr/proprietary/lib64/libsecnativefeature.so:system/lib64/libsecnativefeature.so \
     vendor/samsung/nobleltespr/proprietary/lib/libril.so:system/lib/libril.so \
