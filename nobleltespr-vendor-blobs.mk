@@ -205,6 +205,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/nobleltespr/proprietary/bin/at_distributor:system/bin/at_distributor \
     vendor/samsung/nobleltespr/proprietary/bin/connfwexe:system/bin/connfwexe \
     vendor/samsung/nobleltespr/proprietary/bin/ddexe:system/bin/ddexe \
+    vendor/samsung/nobleltespr/proprietary/bin/diagexe:system/bin/diagexe \
     vendor/samsung/nobleltespr/proprietary/bin/diag_mdlog:system/bin/diag_mdlog \
     vendor/samsung/nobleltespr/proprietary/bin/diag_uart_log:system/bin/diag_uart_log \
     vendor/samsung/nobleltespr/proprietary/bin/irsc_util:system/bin/irsc_util \
